@@ -17,10 +17,4 @@ A responsive and modern portfolio website showcasing my skills, projects, certif
 Frontend: HTML, CSS, JavaScript.
 Hosting: GitHub Pages / Netlify (optional)
 
-📂 Project Structure
-Code
-├── index.html        # Main portfolio page
-├── style.css         # Custom styling
-├── script.js         # Interactive elements
-├── assets/           # Images, icons, and certificates
-└── README.md         # Project documentation
+
